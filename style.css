@@ -1,3 +1,27 @@
 html {
   scroll-behavior: smooth;
 }
+
+.navbar-brand {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 25px;
+}
+
+.nav-link {
+  margin-right: 30px;
+}
+
+.nav-link:hover {
+  border-bottom: 3px solid #3951bb;
+  padding-bottom: 5px;
+  margin-bottom: -8px;
+}
+
+.btn {
+  border-radius: 40px;
+}
+
+.btn:hover {
+  background-color: #ffff02;
+  color: black;
+}
