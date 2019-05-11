@@ -41,4 +41,20 @@ html {
   background-size: cover;
   height: 100vh;
   margin-top: -63px;
+  text-align: center;
+}
+
+.jumbotron .display-4 {
+  color: #ffff02;
+  text-align: center;
+  margin-top: 400px;
+  font-weight: 200;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+  font-size: 62px;
+  margin-bottom: 30px;
+}
+
+.jumbotron .display-4 span {
+  font-weight: 500;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
 }
