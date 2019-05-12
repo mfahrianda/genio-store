@@ -58,3 +58,14 @@ html {
   font-weight: 500;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
 }
+
+.products {
+  background-image: linear-gradient(
+    to top,
+    #3951bb,
+    #7778cc,
+    #a7a3de,
+    #d4d0ee,
+    #ffffff
+  );
+}
