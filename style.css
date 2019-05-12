@@ -22,7 +22,7 @@ html {
 }
 
 .nav-link:hover {
-  border-bottom: 3px solid #3951bb;
+  border-bottom: 3px solid #ffff02;
   padding-bottom: 5px;
   margin-bottom: -8px;
 }
