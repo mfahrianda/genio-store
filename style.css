@@ -73,3 +73,8 @@ section {
     #ffffff
   );
 }
+
+h2 {
+  font-family: 'Permanent Marker', cursive;
+  color: #3951bb;
+}
