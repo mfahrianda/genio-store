@@ -33,6 +33,7 @@ section {
 
 .btn {
   border-radius: 20px;
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.7);
 }
 
 .btn:hover {
@@ -80,5 +81,6 @@ h2 {
 }
 
 .info-panel {
-  background-color: #a7a3de;
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.7);
+  border-radius: 12px;
 }
