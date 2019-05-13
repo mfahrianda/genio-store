@@ -73,11 +73,13 @@ section {
     #d4d0ee,
     #ffffff
   );
+  margin-top: 90px;
 }
 
 h2 {
   font-family: 'Permanent Marker', cursive;
   color: #3951bb;
+  margin-bottom: 60px;
 }
 
 .info-panel {
