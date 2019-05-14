@@ -112,10 +112,17 @@ h2 {
 }
 
 .about {
-  margin-top: 120px;
+  background-image: linear-gradient(
+    to bottom,
+    #ffff02,
+    #ffdc7d,
+    #ffd8dd,
+    #ffefff,
+    #ffffff
+  );
 }
 
 .about p {
-  font-size: 52px;
+  font-size: 40px;
   font-weight: 200;
 }
