@@ -111,17 +111,6 @@ h2 {
   color: #acacac;
 }
 
-.about {
-  background-image: linear-gradient(
-    to bottom,
-    #ffff02,
-    #ffdc7d,
-    #ffd8dd,
-    #ffefff,
-    #ffffff
-  );
-}
-
 .about p {
   font-size: 40px;
   font-weight: 200;
