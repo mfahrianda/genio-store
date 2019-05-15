@@ -119,7 +119,23 @@ h2 {
   color: #acacac;
 }
 
+.about {
+  margin-top: 90px;
+}
+
 .about p {
   font-size: 40px;
   font-weight: 200;
+}
+
+#testimony {
+  margin-top: 50px;
+}
+
+footer h5 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+footer h4 {
+  font-family: 'Varela Round', sans-serif;
 }
